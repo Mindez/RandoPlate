@@ -3,7 +3,7 @@ using KitchenMods;
 using Unity.Collections;
 using Unity.Entities;
 
-namespace PlateUpArchipelago
+namespace RandoPlate
 {
     //public class SetEverythingOnFire : GenericSystemBase, IModSystem
     //{
